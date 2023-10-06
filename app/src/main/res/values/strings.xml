@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">app</string>
+    <string name="welcome">welcome</string>
+    <string name="start">start</string>
+    <string name="he">start</string>
+    <string name="first">first</string>
+    <string name="second">second</string>
+    <string name="exit">exit</string>
+</resources>
